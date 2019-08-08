@@ -27,3 +27,12 @@ p{
 h7{
   font-size: small;
 }
+.bg-image-two{
+  background-image: url(https://www.thelocal.fr/userdata/images/article/7b2d65b2-9686-220b-8b11-06bbc67e1632.jpg);
+  min-height: 30vh;
+  background-size: auto;
+}
+.navbar-w{
+  flex-direction: row!important;
+  
+}
