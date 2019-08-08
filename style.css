@@ -17,3 +17,13 @@ p{
   margin-right: auto;
   margin-left: auto;
 }
+.bg-third{
+  min-height: 40vh;
+}
+.btn-blue{
+  background-color: rgb(70, 113, 255);
+  color: white;
+}
+h7{
+  font-size: small;
+}
