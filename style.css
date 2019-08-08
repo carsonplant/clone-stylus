@@ -10,6 +10,7 @@
 }
 p{
   font-size: x-small!important;
+  margin-top: 10px;
 }
 .margin{
   margin-top: 69.2px;
@@ -33,6 +34,8 @@ h7{
   background-size: auto;
 }
 .navbar-w{
-  flex-direction: row!important;
-  
+  flex-direction: row!important; 
+}
+.text-wheat{
+  color: wheat!important;
 }
